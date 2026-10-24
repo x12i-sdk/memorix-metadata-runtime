@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-metadata-runtime",
+  "packageVersion": "3.3.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-metadata-runtime",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-metadata-runtime",
+  "sourceRepository": "https://github.com/x12i/memorix-mono-repo",
+  "sourceCommit": "b87d277ff9c40cedc18d5f4775642baf8a2d3df1",
+  "sourcePackageDirectory": "memorix-metadata-runtime",
+  "example": {
+    "title": "Install a metadata pack into memory and verify idempotence",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:20:58.801971+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "c0ede32c9550cfcab872f77bc47da9fa93a415e275d4373ac97954dee917faf0",
+    "manifestSha256": "7debe1beb9bdec7cb7fd324f95dee9c950c0f3844ac0c3311e2e2c5cb5d92061"
+  },
+  "validationFiles": {
+    "src/index.mjs": "c0ede32c9550cfcab872f77bc47da9fa93a415e275d4373ac97954dee917faf0"
+  }
+}
